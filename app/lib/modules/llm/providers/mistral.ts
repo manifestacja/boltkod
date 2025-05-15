@@ -9,7 +9,7 @@ export default class MistralProvider extends BaseProvider {
   getApiKeyLink = 'https://console.mistral.ai/api-keys/';
 
   config = {
-    apiTokenKey: 'MISTRAL_API_KEY',
+    apiTokenKey: 'sjwEQCEo8TlDL1VrYr4py11QzEZu6e8K',
   };
 
   staticModels: ModelInfo[] = [
